@@ -51,5 +51,10 @@ We welcome feedback via Pull Requests and Issues. Your help is particularly appr
 
 You can also contribute by adding new sensors or improving the code. All suggestions, bug reports, and improvements are highly valued and help enhance the project.
 
+### To-Do / Features to be Added:
+
+- **Voice and Text Assistant Integration:** The voice and text assistants will be activated in future updates, enhancing user interaction with the system.
+
+
 ## License
 This project is licensed under the MIT License. For details, see [LICENSE](LICENSE).
