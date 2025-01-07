@@ -44,6 +44,9 @@ This project enables real-time data collection from various sensors (temperature
 ### Sensor Data Display
 ![Sensor Data Display](images/sensor_data_display.png)
 
+<img src="images/app_interface.png" alt="App Interface" width="400"/>
+<img src="images/sensor_data_display.png" alt="Sensor Data Display" width="400"/>
+
 ## Contributing
 We welcome feedback via Pull Requests and Issues. Your help is particularly appreciated in the following areas:
 - Resolving issues related to the inactivity of the voice assistant.
