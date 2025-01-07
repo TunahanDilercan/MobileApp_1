@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HanOva</string>
+    <string name="title_home">Sensorler</string>
+    <string name="title_dashboard">Sesli Asistan</string>
+</resources>
