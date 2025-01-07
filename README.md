@@ -38,14 +38,10 @@ This project enables real-time data collection from various sensors (temperature
 
 ## Screenshots
 
-### App Interface
-![App Interface](images/app_interface.png)
-
-### Sensor Data Display
-![Sensor Data Display](images/sensor_data_display.png)
-
-<img src="images/app_interface.png" alt="App Interface" width="400"/>
-<img src="images/sensor_data_display.png" alt="Sensor Data Display" width="400"/>
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+  <img src="images/app_interface.png" alt="App Interface" width="400"/>
+  <img src="images/sensor_data_display.png" alt="Sensor Data Display" width="400"/>
+</div>
 
 ## Contributing
 We welcome feedback via Pull Requests and Issues. Your help is particularly appreciated in the following areas:
